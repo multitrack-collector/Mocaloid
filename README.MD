@@ -1,4 +1,6 @@
-Translated isng [BigScience BLOOM](https://huggingface.co/bigscience/bloom):
+This repo is strictly for archival purposes. I do not plan on updating this repo. I might just push this english readme. That's all.
+
+English translation by [BigScience BLOOM](https://huggingface.co/bigscience/bloom):
 ## About Mocaloid
 
 Mocaloid is an experimental engine that replaces DaisyBell with Moresample engine. It will try to use an integrated method to get necessary samples and label information from VoiceBank and deliver them to Moresample to synthesize sound.
