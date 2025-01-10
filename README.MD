@@ -1,4 +1,4 @@
-This repo is strictly for archival purposes. I do not plan on updating this repo. I might just push this english readme. That's all.
+This repo is strictly for archival purposes. I do not plan on contributing anything else to this repo. I will however try to keep this repo as up to date as possible with the original repo. I might just push this english readme. That's all.
 
 English translation by [BigScience BLOOM](https://huggingface.co/bigscience/bloom):
 ## About Mocaloid
