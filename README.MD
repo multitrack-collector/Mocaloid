@@ -1,4 +1,4 @@
-This repo is strictly for archival purposes. I do not plan on contributing anything else to this repo. I will however try to keep this repo as up to date as possible with the original repo. I might just push this english readme. That's all.
+This repo is strictly for archival purposes. I do not plan on contributing anything else to this repo. I might just push this english readme and keep this repo up to date with the original mocaloid repo. That's all. You can find official releases of mocaloid [here](https://github.com/mhbalthasar/Mocaloid/releases).
 
 English translation by [BigScience BLOOM](https://huggingface.co/bigscience/bloom):
 ## About Mocaloid
